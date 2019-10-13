@@ -1,0 +1,9 @@
+C:\Users\Максим\source\repos\TrisemusCipher\TrisemusCipher\bin\Debug\TrisemusCipher.exe.config
+C:\Users\Максим\source\repos\TrisemusCipher\TrisemusCipher\bin\Debug\TrisemusCipher.exe
+C:\Users\Максим\source\repos\TrisemusCipher\TrisemusCipher\bin\Debug\TrisemusCipher.pdb
+C:\Users\Максим\source\repos\TrisemusCipher\TrisemusCipher\obj\Debug\TrisemusCipher.csprojAssemblyReference.cache
+C:\Users\Максим\source\repos\TrisemusCipher\TrisemusCipher\obj\Debug\TrisemusCipher.Form1.resources
+C:\Users\Максим\source\repos\TrisemusCipher\TrisemusCipher\obj\Debug\TrisemusCipher.Properties.Resources.resources
+C:\Users\Максим\source\repos\TrisemusCipher\TrisemusCipher\obj\Debug\TrisemusCipher.csproj.GenerateResource.cache
+C:\Users\Максим\source\repos\TrisemusCipher\TrisemusCipher\obj\Debug\TrisemusCipher.exe
+C:\Users\Максим\source\repos\TrisemusCipher\TrisemusCipher\obj\Debug\TrisemusCipher.pdb
